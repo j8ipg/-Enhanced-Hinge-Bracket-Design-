@@ -1,6 +1,13 @@
-# -Enhanced-Hinge-Bracket-Design-
+
 
 # Enhanced Hinge‑Bracket Design <!-- project title -->
+![task  req](https://github.com/user-attachments/assets/8899e0a8-42e7-439b-a494-bbdb00f3e2d2)
+- Improve the joint design so that it has better durability - taking into account some of the dimensions previously attached.
+
+- 
+Design after implementation: 
+
+![task3](https://github.com/user-attachments/assets/87e162e5-5ac6-4bd3-870f-774dac496ed6)
 
 ## 1&nbsp;–&nbsp;Task Concept
 The assignment is to *re‑engineer a small hinge‑style bracket—originally defined by fixed outer dimensions (Ø 45 mm base, 54 mm span, 29 mm height, 4.5 mm thickness)—so that it can **withstand higher loads while preserving its envelope*.  
@@ -27,5 +34,36 @@ Each participant creates a new 3‑D model, runs a finite‑element analysis (FE
 | *SolidWorks* | Powerful Simulation add‑ins, Design Study optimisation, extensive material library | Commercial; student editions available |
 | *Onshape* | Cloud‑based collaboration, version control baked in, integrated SimScale connector for FEA | Free for public projects & paid tiers |
 
+
+
+## 📸 Design  Preview
+
+  pic : 
+
+  ![task3](https://github.com/user-attachments/assets/87e162e5-5ac6-4bd3-870f-774dac496ed6)
+
+  vid :    
+
+
+  https://github.com/user-attachments/assets/fd32ac75-edec-4657-bfd4-66a251cd5db1
+  
+
+
+
+
+
+  pic of sheet:
+  ![task3 sheet draw](https://github.com/user-attachments/assets/988e96f3-4e7e-4a93-b40d-d19ebb32d608)
+
+  
+
+
+
+
 > *Tip:* Use identical material properties and boundary conditions across tools to ensure apples‑to‑apples FEA results.
+
+
+--
+ Designed by: eng  jehad altayyar
+
 
