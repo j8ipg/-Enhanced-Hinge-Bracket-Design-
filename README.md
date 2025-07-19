@@ -4,8 +4,7 @@
 ![task  req](https://github.com/user-attachments/assets/8899e0a8-42e7-439b-a494-bbdb00f3e2d2)
 - Improve the joint design so that it has better durability - taking into account some of the dimensions previously attached.
 
-- 
-Design after implementation: 
+- Design after implementation: 
 
 ![task3](https://github.com/user-attachments/assets/87e162e5-5ac6-4bd3-870f-774dac496ed6)
 
