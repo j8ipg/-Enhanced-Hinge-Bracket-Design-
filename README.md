@@ -4,6 +4,8 @@
 ![task  req](https://github.com/user-attachments/assets/8899e0a8-42e7-439b-a494-bbdb00f3e2d2)
 - Improve the joint design so that it has better durability - taking into account some of the dimensions previously attached.
 
+
+
 - Design after implementation: 
 
 ![task3](https://github.com/user-attachments/assets/87e162e5-5ac6-4bd3-870f-774dac496ed6)
@@ -41,6 +43,7 @@ Each participant creates a new 3‑D model, runs a finite‑element analysis (FE
 
   ![task3](https://github.com/user-attachments/assets/87e162e5-5ac6-4bd3-870f-774dac496ed6)
 
+
   vid :    
 
 
@@ -48,21 +51,12 @@ Each participant creates a new 3‑D model, runs a finite‑element analysis (FE
   
 
 
-
-
-
   pic of sheet:
   ![task3 sheet draw](https://github.com/user-attachments/assets/988e96f3-4e7e-4a93-b40d-d19ebb32d608)
 
   
-
+ Designed by: eng  jehad altayyar
 
 
 
 > *Tip:* Use identical material properties and boundary conditions across tools to ensure apples‑to‑apples FEA results.
-
-
-
- Designed by: eng  jehad altayyar
-
-
