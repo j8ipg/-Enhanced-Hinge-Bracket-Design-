@@ -63,7 +63,7 @@ Each participant creates a new 3‑D model, runs a finite‑element analysis (FE
 > *Tip:* Use identical material properties and boundary conditions across tools to ensure apples‑to‑apples FEA results.
 
 
---
+
  Designed by: eng  jehad altayyar
 
 
